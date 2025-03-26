@@ -1,6 +1,5 @@
 📈 Stock Market Prediction using Machine Learning
 
-
 ## Project Overview
 This project analyzes Tesla and Google stock market data and applies machine learning techniques. Stock market prediction is a challenging task due to market volatility. In this project, we explore historical stock data of Tesla and Google, building an **LSTM-based machine learning model** to forecast future stock prices for Google, while using **regression techniques** for Tesla.
 
@@ -31,8 +30,6 @@ The **Google stock market dataset** includes:
 
 ---
 
----
-
 ## Tesla Stock Price Prediction
 
 ### Dataset
@@ -56,7 +53,6 @@ The **Tesla stock market dataset** includes:
 5. **Visualization**:
    - Compare actual vs. predicted Tesla stock prices.
 
-
 ---
 
 ## Technologies Used
@@ -67,8 +63,7 @@ The **Tesla stock market dataset** includes:
 - **Scikit-learn** (Preprocessing)
 - **TensorFlow/Keras** (LSTM model implementation)
 
-
-   ```
+---
 
 ## Results
 - The LSTM model effectively predicts stock price trends for **Google** and regression model predicts **Tesla** stock prices.
